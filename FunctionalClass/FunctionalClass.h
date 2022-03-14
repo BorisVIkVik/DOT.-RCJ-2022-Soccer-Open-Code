@@ -4,6 +4,7 @@
 #include <../Obstacle/Obstacle.h>
 #include <../VectorToMove/VTM.h>
 #include <../VecField/VecField.h>
+#include <../StructObject/struct_Object.h>
 #include <vector>
 
 using namespace std;
